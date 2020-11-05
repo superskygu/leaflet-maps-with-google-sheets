@@ -5,7 +5,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 
 ## Live links (replace with your own)
 - Leaflet Map https://superskygu.github.io/leaflet-maps-with-google-sheets/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1yXt2LdaeidT46-Z6c6_PFrTJJ2XVR7IGcEqUMEWW7xA/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1-flGPKR-agw-u5jIH2ZwNbhq-VI_NmH9nBvdwhILGfk/edit#gid=0
 
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
